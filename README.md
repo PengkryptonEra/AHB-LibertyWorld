@@ -6,6 +6,7 @@ In today's era of rapid development of artificial intelligence and robotics, we 
 We believe that by pooling the wisdom, capital, and resources of human community within a transparent and collectively supervised framework, we can usher in a new era where robotic technology benefits the masses and promotes the sustainable development of civilization.
 
 1. Introduction: The Call of the Times and Our Response
+
 1.1 We Stand at the Crossroads of Human Civilization
 On one side, artificial intelligence and robotics are rising with unstoppable force. They hold the unlimited potential to end poverty, cure diseases, and heal the planet.
 On the other side, this power, which should belong to human community, is being locked up by a few giants. It has become a tool in geopolitical games and a slave to short-term profits.
